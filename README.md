@@ -31,3 +31,4 @@ Features of this Program :
 10. It will show number of total entered vehicles and total collected money.
 
 11. Assistant of this toll plaza must have to input the information of the vehicles.
+12. this is Cpp Desktop Application Any Query To contact me My Email:- nitaom112@gmail.com Instagram Id https://www.instagram.com/omsonawane39/ utube this Project Link :- https://www.youtube.com/channel/UCKy5K7xoIcd53TuQfLhIbMQ
